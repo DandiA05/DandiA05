@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/DandiA05/DandiA05/main/banner.png" alt="Banner" />
+  <img src="./banner-code.png" alt="Coding Banner" />
 </p>
 
 <h1 align="center">Hi, I'm Dandi 👋</h1>
@@ -82,8 +82,8 @@ Reusable UI components built for personal use & sharing.
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your.email@example.com  
-- 💼 LinkedIn: https://linkedin.com/in/yourprofile  
+- 📧 Email: dandianto05@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/dandi-anto
 - 🌐 Portfolio Website (soon)
 
 ---
